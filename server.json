@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-11-09T14:52:54.694Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-11-09T14:10:54.694Z"
+    },
+    {
+      "id": 3,
+      "description": "Santa Catarina",
+      "type": "outcome",
+      "category": "Viagem",
+      "price": 3550,
+      "createdAt": "2023-11-09T19:16:58.133Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "type": "income",
+      "createdAt": "2023-11-13T14:29:03.605Z",
+      "id": 4
+    },
+    {
+      "category": "Filmes",
+      "description": "Cinema",
+      "price": 30,
+      "type": "outcome",
+      "createdAt": "2023-11-13T14:58:06.041Z",
+      "id": 5
+    },
+    {
+      "category": "Alimentação",
+      "description": "lancheao do renato",
+      "price": 120,
+      "type": "outcome",
+      "createdAt": "2023-11-23T21:49:30.045Z",
+      "id": 6
+    }
+  ]
+}
